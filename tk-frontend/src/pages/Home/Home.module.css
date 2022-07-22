@@ -1,0 +1,27 @@
+.cardWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: calc(100vh - 8rem);
+}
+
+.para {
+  font-size: 1.06rem;
+  color: #c4c5c5;
+  line-height: 1.6;
+  margin-bottom: 1.8rem;
+}
+
+.signinWrapper {
+  margin-top: 0.8rem;
+  font-size: 0.9rem;
+}
+
+.foText {
+  color: #c4c5c5;
+}
+
+.foLink {
+  margin-left: 0.4rem;
+  color: #ff4c29;
+}

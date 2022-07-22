@@ -1,0 +1,27 @@
+.card {
+  width: 35rem;
+  margin: 0 0.5rem;
+  max-width: 90%;
+  /* height: 20rem; */
+  background-color: #2c394b;
+  padding: 2.3rem 2rem;
+  border-radius: 0.5rem;
+  text-align: center;
+}
+
+.headingWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1.8rem;
+}
+
+.logo {
+  width: 3.2rem;
+}
+
+.heading {
+  font-size: 1.4rem;
+  font-weight: bold;
+  margin-left: 0.5rem;
+}
